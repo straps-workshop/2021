@@ -25,6 +25,6 @@ subtitle = ""
 +++
 
 {{% alert warning %}}
-## **Program: [Submissions are open: get your pens ready](https://straps-workshop.github.io/#program)!**
+## **Program: [Submissions are open: get your pens ready](https://straps-workshop.github.io/#deadlines)!**
 ### Slack channel:  Will be open soon 
 {{% /alert %}}
