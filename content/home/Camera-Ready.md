@@ -20,8 +20,8 @@ subtitle = ""
 
 
 **Submission:**
-The camera-ready submission is enabled on the submission website
-(https://www.conftool.com/icsoc2020/index.php). Once you access the details of your contribution(s), you can notice a yellow link on the right “Final Upload”. Follow the instructions to submit your camera-ready.
+The camera-ready submission will be enabled on the submission website
+(https://www.conftool.com/icsoc2021/index.php). Once you access the details of your contribution(s), you can notice a yellow link on the right “Final Upload”. Follow the instructions to submit your camera-ready.
 
 **Paper length:**
 Papers are limited up to 15 pages including abstract, figures
@@ -43,8 +43,8 @@ Once you are done, you must fill the author LNCS consent to
 publish form that you can find here:
 https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines.
 
-Here is the information you need eventually to fill the form: " Fatma Outay, Hye-young Paik, Amira Alloum, Hakim Hacid, Marinella Petrocchi, Mohamad Badra, Amin Beheshti, Xumin Liu, Abderrahmane Maaradji.
-The companion of the 18th International Conference on Service Oriented Computing, ICSOC 2020, Dubai, United Arab Emirates, December 14-17, 2020". 
+Here is the information you need eventually to fill the form: TBD.
+The companion of the 19th International Conference on Service Oriented Computing, ICSOC 2021, Dubai, United Arab Emirates, November 22-25, 2021". 
 
 
 Do not hesitate to write to [straps.icsoc@gmail.com](mailto:straps.icsoc@gmail.com) if you have further questions. 
