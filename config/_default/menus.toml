@@ -53,11 +53,16 @@
   identifier = "past_editions"
   weight = 90
 
+
+[[main]]
+  name = "2020 Dubai (online)"
+  parent = "past_editions"
+  url = "https://straps-workshop.github.io/2020/"
+
 [[main]]
   name = "2019 Toulouse"
   parent = "past_editions"
   url = "https://straps-workshop.github.io/2019/"
-
 
 
 # Link to a PDF of your resume/CV from the menu.
