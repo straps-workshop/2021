@@ -46,7 +46,7 @@ subtitle = ""
 +++
 
 # STRAPS 2021  
-## 3nd Workshop on **S**mart Da**t**a Integ**r**ation **a**nd **P**rocessing on **S**ervice Based Environments  
-## In conjunction with [ICSOC 2020](https://icsoc2020.connect.rs)
+## 3rd Workshop on **S**mart Da**t**a Integ**r**ation **a**nd **P**rocessing on **S**ervice Based Environments  
+## In conjunction with [ICSOC 2021](http://icsoc2021.josueonline.com)
 
-**14 December**
+**22 November**
