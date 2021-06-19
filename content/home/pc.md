@@ -16,23 +16,15 @@ subtitle = ""
   columns = "2"
 +++
 
-- **Ali Ackouglu**, Arizona University, USA
+- **Ali Akouglu**, Arizona University, USA
 - **Khalid Belhajjame**, University Paris Dauphine, LAMSADE,  France
-- **Cheyma Ben Njima**, MARS Lab, Tunisia
-- **Dalila Chiadmi**,  Mohammadia School of Engineers, Morocco
 - **Umberto Costa**, UFRN, Brazil
-- **Javier A. Espinosa Oviedo**, University Jean Moulin Lyon 3, France
-- **Luciano García Bañuelos**, Tecnológico de Monterrey, Mexico
-- **Rima Grati**, Zayed University, EAU
-- **Carmem Hara**, Universidade Federal do Parana
-- **Faiza Loukil**, University Jean Moulin Lyon 3, France
-- **Riadh Mokadem**, IRIT, France
-- **Frank Morvan**, IRIT, France
-- **Michael Mrissa**, InnoRenew COE, Slovenia
-- **Mourad Oussalah**, University of Nantes, France
-- **Alex Palesandro**, D2SI, France
-- **Placido Antonio Souza Neto**, IFRN, Brazil
---**Sana Sellami**, Université Aix Marseille, France
-- **Nicolas Travers**, De Vinci Research Centre, Département Informatique, Big Data et Objets Connectés, France
-- **Sami Yangui**, INSA  de Toulouse, France
-- **José Luis Zechinelli Martini**, Universidad de las Américas Puebla, México
+- **Javier A. Espinosa Oviedo**, University Jean Moulin Lyon 3, France, javiera.espinosa@gmail.com
+- **Carmem Hara**, Universidade Federal do Parana, carmemhara@gmail.com 
+- **Michael Mrissa**, University of Primorska, Slovenia, michael.mrissa@innorenew.eu 
+- **Alex Palesandro**, D2SI, France, palexster@gmail.com 
+- **Pierluigi Plebani**, Politecnico di Milano, Italy, pierluigi.plebani@polimi.it 
+- **Placido Antonio Souza Neto**, IFRN, Brazil, placido.neto@gmail.com
+- **Nicolas Travers**, De Vinci Research Centre, Département Informatique, Big Data et Objets Connectés, France, nicolas.travers@devinci.fr 
+- **José Luis Zechinelli Martini**, Universidad de las Américas Puebla, México, joseluis.zechinelli@udlap.mx 
+
