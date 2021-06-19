@@ -17,9 +17,9 @@ subtitle = ""
 
 +++
 
-We expect papers written in English between 8 and 12 Springer's LNCS pages long ([Springer LNCS format](https://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines)), including references and Illustrations. Electronic submissions in PDF format can be proposed at the conference workshops [submission site](http://www.conftool.com/icsoc2020/index.php).
+We expect papers written in English between 8 and 12 Springer's LNCS pages long ([Springer LNCS format](https://www.springer.com/fr/computer-science/lncs/conference-proceedings-guidelines)), including references and Illustrations. Electronic submissions in PDF format can be proposed at the conference workshops [submission site](http://www.conftool.com/icsoc2021/index.php).
 
-Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will register and attend the workshop to present the paper. Registration is subject to the terms and conditions of [ICSOC](https://icsoc2020.connect.rs).
+Submission of a paper should be regarded as an undertaking that, should the paper be accepted, at least one of the authors will register and attend the workshop to present the paper. Registration is subject to the terms and conditions of [ICSOC](http://icsoc2021.josueonline.com).
 
 A selected number of papers will be invited to be submitted as extended versions to be published in an edition of Proceedings series « [Advances in Computer Science Research](https://www.atlantis-press.com/proceedings/series/acsr) ».
 
@@ -29,24 +29,21 @@ Submission deadlines : 
 
 Given that the general conference has gone officially online, organisers have
 authorised a longer period of submission for workshops. Therefore we have
-decided to organise **3 submission rounds** with the following deadlines:
+decided to organise **2 submission rounds** with the following deadlines:
 
 \- 1 round: 
-**Submission: 5th September** 
-Notification of results: 1st October
+**Submission: 25th September** 
+Notification of results: 15th October
 
 \- 2 round: 
-**Submission: 5th October**
-Notification of results: 25th October
+**Submission: 20th October**
+Notification of results: 30th October
 
-\- 3 round: 
-**Submission: 30th October**
-Notification of results: 15th November
 
-Papers submitted in the first and second rounds, if not accepted, will have to opportunity
-to be **submitted again in the following rounds**. Authors wiil be able to integrate
+Papers submitted in the first round, if not accepted, will have to opportunity
+to be **submitted again in the following round**. Authors wiil be able to integrate
 evaluation comments from reviewers to prepare a new submission.
 
--   Camera Ready: **30 November 2020** 
--   Authors Registration deadline: **30 November 2020**
--   Workshops: **December 14, 2020**
+-   Camera Ready: **12th November 2021** 
+-   Authors Registration deadline: **5th November 2021**
+-   Workshops: **November 22nd, 2021**
