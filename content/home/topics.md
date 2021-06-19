@@ -19,20 +19,20 @@ subtitle = ""
 We invite the submission of work-in-progress research addressing various aspects of data integration and processing done in service-based infrastructures. The workshop welcomes submissions of technical, experimental, methodological papers, application papers, and papers on experience reports in real-life application settings addressing -- though not limited to -- the following topics:
 
 -   SLA models for data integration/data management
--   Service-based data processing and querying
+-   Service based data processing and querying
 -   Data services composition on cloud and multi-cloud
--   Trust and privacy cloud services
+-   Trust and privacy in Cloud/Edge services
 -   Data and service provenance
 -   Data quality: evaluation, estimation, warranties
 -   Microservices based data integration systems
--   Polystores: architecture, querying and systems
--   Learning-based data integration
--   Logic-based data integration
--   Large-scale data integration
+-   Multi-scale data integration: learning-based, logic-based, (semi)-automatic, context aware, on the Web etc.
+-   AI and data integration / Smart Big data integration
 -   Data integration for smart applications
 -   Innovative data integration platforms
--   Automated data integration
--   Data integration strategies, Data integration management
--   Data Cleaning, Curation, Filtering and Dissemination, Metadata Management, DataDiscovery, Web Data Integration, Semantic Web, Heterogeneous and Federated data sources
--   Context-aware data integration
+-   Data Cleaning, Curation, Filtering and Dissemination, Metadata Management, Data Discovery, Semantic Web, Heterogeneous and Federated data sources
 -   Blockchain and data integration
+-   AI in Edge Computing (Edge AI)
+-   IoT Data integration through Edge services
+-   Web services in Edge clouds
+-   Cloud & Fog Computing
+-   User eXperience & Human in the loop in data integration and management
