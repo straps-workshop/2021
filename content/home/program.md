@@ -16,7 +16,7 @@ subtitle = ""
   columns = "2"
 
 +++
-**DUBAI, UAE, TIME (GMT+4)** [complete session video]()
+**DUBAI, UAE, TIME (GMT+4)** []()
 
 |  |  |
 |---|---|
