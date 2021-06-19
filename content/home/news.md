@@ -25,6 +25,6 @@ subtitle = ""
 +++
 
 {{% alert warning %}}
-## **Program: [Have a look, it includes Keynotes from TU-Berlin & Naver Labs (zoom link@program)](https://straps-workshop.github.io/#program)!**
-### Slack channel:  https://join.slack.com/t/straps-icsoc/shared_invite/zt-kbpmhfeo-jF9ZZwAI9iRzW1sCaPjXLA 
+## **Program: [Stay tunned for news about the program!)](https://straps-workshop.github.io/#program)!**
+### Slack channel:  Will be open soon 
 {{% /alert %}}
