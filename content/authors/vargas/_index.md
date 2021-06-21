@@ -15,7 +15,7 @@ role: Senior Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: CNRS, LIRIS-LAFMIA labs
+- name: CNRS, LIRIS lab
   #url: "http://www.cnrs.fr/en"
 #- name: LIRIS lab    
   #url: "https://liris.cnrs.fr"
