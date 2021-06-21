@@ -17,11 +17,11 @@ role: Senior Researcher
 organizations:
 - name: CNRS, LIRIS-LAFMIA labs
   #url: "http://www.cnrs.fr/en"
-#- name: LIRIS-LAFMIA labs    
+#- name: LIRIS lab    
   #url: "https://liris.cnrs.fr"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "genoveva.vargas@imag.fr"
+email: "genoveva.vargas-solar@liris.cnrs.fr"
 
 # Extension: website url
 website: "http://vargas-solar.com"
