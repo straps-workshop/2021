@@ -17,14 +17,15 @@ subtitle = ""
 +++
 
 - **Ali Akouglu**, Arizona University, USA
+- **Joao Batista Souza**, IFRN, Brazil
 - **Khalid Belhajjame**, University Paris Dauphine, LAMSADE,  France
 - **Umberto Costa**, UFRN, Brazil
-- **Javier A. Espinosa Oviedo**, University Jean Moulin Lyon 3, France, javiera.espinosa@gmail.com
-- **Carmem Hara**, Universidade Federal do Parana, carmemhara@gmail.com 
-- **Michael Mrissa**, University of Primorska, Slovenia, michael.mrissa@innorenew.eu 
-- **Alex Palesandro**, D2SI, France, palexster@gmail.com 
-- **Pierluigi Plebani**, Politecnico di Milano, Italy, pierluigi.plebani@polimi.it 
-- **Placido Antonio Souza Neto**, IFRN, Brazil, placido.neto@gmail.com
-- **Nicolas Travers**, De Vinci Research Centre, Département Informatique, Big Data et Objets Connectés, France, nicolas.travers@devinci.fr 
-- **José Luis Zechinelli Martini**, Universidad de las Américas Puebla, México, joseluis.zechinelli@udlap.mx 
+- **Javier A. Espinosa Oviedo**, University Jean Moulin Lyon 3, France
+- **Carmem Hara**, Universidade Federal do Parana, Brazil
+- **Michael Mrissa**, University of Primorska, Slovenia
+- **Alex Palesandro**, D2SI, France
+- **Pierluigi Plebani**, Politecnico di Milano, Italy
+- **Placido Antonio Souza Neto**, IFRN, Brazil
+- **Nicolas Travers**, De Vinci Research Centre, Département Informatique, Big Data et Objets Connectés, France
+- **José Luis Zechinelli Martini**, Universidad de las Américas Puebla, México
 
