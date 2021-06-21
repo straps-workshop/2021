@@ -32,15 +32,15 @@ authorised a longer period of submission for workshops. Therefore we have
 decided to organise **2 submission rounds** with the following deadlines:
 
 \- 1 round: 
-**Submission: 25th September** 
+**Submission: 25th September,** 
 Notification of results: 15th October
 
 \- 2 round: 
-**Submission: 20th October**
+**Submission: 20th October,**
 Notification of results: 30th October
 
 
-Papers submitted in the first round, if not accepted, will have to opportunity
+Papers submitted in the first round, if not accepted, will have the opportunity
 to be **submitted again in the following round**. Authors wiil be able to integrate
 evaluation comments from reviewers to prepare a new submission.
 
