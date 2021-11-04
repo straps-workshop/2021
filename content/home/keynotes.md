@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 455  # Order that this section will appear.
 
 title = "Keynotes"
@@ -16,17 +16,10 @@ subtitle = ""
   columns = "2"
 +++
 
-## To be announced
 
-To be announced
-
-
-**TBD** Bio
-
- ## To be announced
-
- To be announced
+* [**Managing Heterogeneous Geospatial Observation and Modeling Data in the TRAFAIR project**](/keynotes/#keynote2)  
+_José Ramón Ríos Viqueira   Univ. of Santiago de Compostela   CITUS research center_
 
 
-**TBD**  Bio
-
+* [**Community Detection Technology for Mining Healthcare dataset**](/keynotes/#keynote1)    
+_Mourad Oussalah,_  _University of Oulu_

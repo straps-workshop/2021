@@ -20,7 +20,7 @@ subtitle = ""
 - **Joao Batista Souza**, IFRN, Brazil
 - **Khalid Belhajjame**, University Paris Dauphine, LAMSADE,  France
 - **Umberto Costa**, UFRN, Brazil
-- **Javier A. Espinosa Oviedo**, University Jean Moulin Lyon 3, France
+- **Javier A. Espinosa Oviedo**, University of Lyon, ERIC, France
 - **Carmem Hara**, Universidade Federal do Parana, Brazil
 - **Michael Mrissa**, University of Primorska, Slovenia
 - **Alex Palesandro**, D2SI, France
@@ -28,4 +28,3 @@ subtitle = ""
 - **Placido Antonio Souza Neto**, IFRN, Brazil
 - **Nicolas Travers**, De Vinci Research Centre, Département Informatique, Big Data et Objets Connectés, France
 - **José Luis Zechinelli Martini**, Universidad de las Américas Puebla, México
-

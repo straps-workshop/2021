@@ -17,7 +17,7 @@
   name = "Submission & Key Dates"
   url = "#deadlines"
   weight = 30
-  
+
 #  [[main]]
 #  name = "Camera-Ready"
 #  url = "#Camera-Ready"
@@ -27,12 +27,12 @@
 #  name = "Program"
 #  url = "#program"
 #  weight = 40
-  
-#  [[main]]
-#  name = "Keynotes"
-#  url = "#keynotes"
-#  weight = 50
-  
+
+ [[main]]
+ name = "Keynotes"
+ url = "#keynotes"
+ weight = 50
+
 [[main]]
   name = "Program Committee"
   url = "#pc"
