@@ -6,7 +6,7 @@ headless: true  # This file represents a page section.
 title : "Community Detection Technology for Mining Healthcare dataset"
 subtitle : "<b>Dr. Mourad Oussalah</b> </br> University of Oulu"
 active : true
-weight : 41
+weight : 42
 
 share: false
 commentable: false

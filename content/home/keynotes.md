@@ -17,9 +17,9 @@ subtitle = ""
 +++
 
 
-* [**Smart Data Integration of Environmental Datasets**](/keynotes/#keynote2)  
-_José Ramón Ríos Viqueira   Univ. of Santiago de Compostela   CITUS research center_
+* [**Smart Data Integration of Environmental Datasets**](/keynotes/#Rios-Viqueira)  
+**José Ramón Ríos Viqueira**, Univ. of Santiago de Compostela,   CITUS research center
 
 
-* [**Community Detection Technology for Mining Healthcare dataset**](/keynotes/#keynote1)    
-_Mourad Oussalah,_  _University of Oulu_
+* [**Community Detection Technology for Mining Healthcare dataset**](/keynotes/#Oussalah)    
+**Mourad Oussalah**,  University of Oulu
