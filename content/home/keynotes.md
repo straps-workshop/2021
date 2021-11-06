@@ -17,7 +17,7 @@ subtitle = ""
 +++
 
 
-* [**Managing Heterogeneous Geospatial Observation and Modeling Data in the TRAFAIR project**](/keynotes/#keynote2)  
+* [**Smart Data Integration of Environmental Datasets**](/keynotes/#keynote2)  
 _José Ramón Ríos Viqueira   Univ. of Santiago de Compostela   CITUS research center_
 
 
