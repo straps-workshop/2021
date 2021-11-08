@@ -49,4 +49,4 @@ subtitle = ""
 ## 3rd Workshop on **S**mart Da**t**a Integ**r**ation **a**nd **P**rocessing on **S**ervice Based Environments  
 ## In conjunction with [ICSOC 2021](http://icsoc2021.josueonline.com)
 
-**22 November**
+**22 November 2021**
