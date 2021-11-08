@@ -37,13 +37,13 @@ Notification of results: 15th October
 
 \- 2 round: 
 **Submission: 20th October,**
-Notification of results: 30th October
+Notification of results: **13th November**
 
 
 Papers submitted in the first round, if not accepted, will have the opportunity
 to be **submitted again in the following round**. Authors wiil be able to integrate
 evaluation comments from reviewers to prepare a new submission.
 
--   Camera Ready: **12th November 2021** 
--   Authors Registration deadline: **5th November 2021**
+-   Camera Ready: **Post proceedings** 
+-   Authors Registration deadline: **15th November 2021**
 -   Workshops: **November 22nd, 2021**
