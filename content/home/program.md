@@ -21,11 +21,11 @@ subtitle = ""
 |  |  |
 |---|---|
 |15:00-15:15 | Opening Joint Sesssion STRAPS - ISYCC, **Workshop organisers** |
-|  | **_Chair: TBD_** |
+|  | **_Chair: Sami Yangui, LAAS, France** |
 |15:15-16:15 | `Keynote` </br> **Smart Data Integration of Environmental Datasets** </br>José Ramón Ríos Viqueira, Univ. of Santiago de Compostela, CITUS research center, Spain </br> [slides]()|
 |16:20-16:45| **Graph analytics workflows enactment on just in time data centres - Position Paper** </br> Ali Akoglu, U. Arizona, USA, José-Luis Zechinelli-Martini, UDLAP, Mexico, Hamamache Kheddouci, U. Claude Bernard, France and Genoveva Vargas-Solar, CNRS, France </br>[video](), [slides]()|
 |16:45-17:00 | **Data centred intelligent Geosciences: Research agenda and Opportunities - Position Paper (short paper)** </br> Aderson Farias Nascimento, UFRN, Brazil, Martin Musicante, UFRN, Brazil, Umberto Souza da Costa, UFRN, Brazil, Bruno Mota de Carvalho, UFRN, Brazil </br>[video](), [slides]()|
-|17:00-17:10 | **TBD** </br>TBD</br>[video](), [slides]()|
+|17:00-17:10 | **Coffee Break ** </br> </br> |
 |  | ***Chair: Workshop organiser*** | 
 |17:10-18:10 | `Keynote` </br> **Community Detection Technology for Mining Healthcare dataset**  </br>  Mourad Oussalah, University of Oulu, Finland </br> [slides]()|
 |18:10-18:35 | **Streaming and visualising neuronal signals for understanding pain** </br> Javier A. Espinosa-Oviedo, U. Lumière Lyon 2, France </br> [video](), [slides]()
