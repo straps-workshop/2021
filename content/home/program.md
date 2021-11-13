@@ -20,19 +20,19 @@ subtitle = ""
 
 |  |  |
 |---|---|
-|15:00-15:15 | Opening, **Workshop organisers** |
+|15:00-15:15 | Opening Joint Sesssion STRAPS - ISYCC, **Workshop organisers** |
 |  | **_Chair: TBD_** |
-|15:15-16:00 | `Keynote` </br> **To be announced** </br>DTBD </br> [slides]()|
-|16:00-16:15 | **TBD** </br> TBD </br>[video](), [slides]()|
-|16:15-16:30 | **TBD** </br>TBD </br>[video](), [slides]()|
-|16:30-16:45 | **TBD** </br>TBD</br>[video](), [slides]()|
+|15:15-16:15 | `Keynote` </br> **Smart Data Integration of Environmental Datasets** </br>José Ramón Ríos Viqueira, Univ. of Santiago de Compostela, CITUS research center, Spain </br> [slides]()|
+|16:20-16:45| **Graph analytics workflows enactment on just in time data centres - Position Paper** </br> Ali Akoglu, U. Arizona, USA, José-Luis Zechinelli-Martini, UDLAP, Mexico, Hamamache Kheddouci, U. Claude Bernard, France and Genoveva Vargas-Solar, CNRS, France </br>[video](), [slides]()|
+|16:45-17:00 | **Data centred intelligent Geosciences: Research agenda and Opportunities - Position Paper (short paper)** </br> Aderson Farias Nascimento, UFRN, Brazil, Martin Musicante, UFRN, Brazil, Umberto Souza da Costa, UFRN, Brazil, Bruno Mota de Carvalho, UFRN, Brazil </br>[video](), [slides]()|
+|17:00-17:10 | **TBD** </br>TBD</br>[video](), [slides]()|
+|  | ***Chair: Workshop organiser*** | 
+|17:10-18:10 | `Keynote` </br> **Community Detection Technology for Mining Healthcare dataset**  </br>  Mourad Oussalah, University of Oulu, Finland </br> [slides]()|
+|18:10-18:35 | **Streaming and visualising neuronal signals for understanding pain** </br> Javier A. Espinosa-Oviedo, U. Lumière Lyon 2, France </br> [video](), [slides]()
+|18:35-18:50 | **Comparing graph data science libraries for querying and analysing datasets: towards data science queries on graphs (short paper)** </br> Genoveva Vargas-Solar, CNRS, France, Pierre Marrec, ENS-Lyon, France and Mirian Halfeld Ferrari Alves, U. Orléans, France </br> [video](), [slides]()
 |  | ***Chair: Workshop organiser*** |
-|17:00-17:45 | `Keynote` </br> **To be announced** </br>  </br> [slides]()|
-|17:45-18:00 | **TBD** </br> TBD </br> [video](), [slides]()
-|18:00-18:15 | **TBD** </br> TBD </br> [video](), [slides]()
-|  | ***Chair: Workshop organiser*** |
-|18:30-18:45 | **TBD** </br>  </br> [video](), [slides]()|
-|18:45-19:00 | **TBD** </br>  </br> [video]()
-|19:00-19:15 | Closing, **Workshop organisers** |
+|18:50-19:15 | **TBD** </br>  </br> [video](), [slides]()|
+|19:15-19:25 | **SUMMIT project (invited paper)** </br> Chirine Ghedira Guégan, Nadia Bennani, Genoveva Vargas-Solar </br> [video]()
+|19:25-19:30 | Closing, **Workshop organisers** |
 
 
