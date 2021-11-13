@@ -26,13 +26,13 @@ subtitle = ""
 |16:20-16:45| **Graph analytics workflows enactment on just in time data centres - Position Paper** </br> Ali Akoglu, U. Arizona, USA, José-Luis Zechinelli-Martini, UDLAP, Mexico, Hamamache Kheddouci, U. Claude Bernard, France and Genoveva Vargas-Solar, CNRS, France </br>[video](), [slides]()|
 |16:45-17:00 | **Data centred intelligent Geosciences: Research agenda and Opportunities - Position Paper (short paper)** </br> Aderson Farias Nascimento, UFRN, Brazil, Martin Musicante, UFRN, Brazil, Umberto Souza da Costa, UFRN, Brazil, Bruno Mota de Carvalho, UFRN, Brazil </br>[video](), [slides]()|
 |17:00-17:10 | **Coffee Break** </br> </br> |
-|  | ***Chair: Chirine Ghedira-Guégan, IAE Université Jean Moulin, Lyon 3, France** | 
+|  | **Chair: Chirine Ghedira-Guégan, IAE Université Jean Moulin, Lyon 3, France** | 
 |17:10-18:10 | `Keynote` </br> **Community Detection Technology for Mining Healthcare dataset**  </br>  Mourad Oussalah, University of Oulu, Finland </br> [slides]()|
 |18:10-18:35 | **Streaming and visualising neuronal signals for understanding pain** </br> Javier A. Espinosa-Oviedo, U. Lumière Lyon 2, France </br> [video](), [slides]()
 |18:35-18:50 | **Comparing graph data science libraries for querying and analysing datasets: towards data science queries on graphs (short paper)** </br> Genoveva Vargas-Solar, CNRS, France, Pierre Marrec, ENS-Lyon, France and Mirian Halfeld Ferrari Alves, U. Orléans, France </br> [video](), [slides]()
 |  | ***Chair: Nadia Bennani, INSA Lyon, France*** |
 |18:50-19:15 | **TBD** </br>  </br> [video](), [slides]()|
-|19:15-19:25 | **SUMMIT project (invited paper)** </br> Chirine Ghedira Guégan, Nadia Bennani, Genoveva Vargas-Solar </br> [video]()
+|19:15-19:25 | **SUMMIT project (invited paper)** </br> Chirine Ghedira Guégan, Nadia Bennani, Genoveva Vargas-Solar </br> [video](), [slides]()
 |19:25-19:30 | Closing, **Workshop organisers** |
 
 
