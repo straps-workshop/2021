@@ -31,8 +31,8 @@ subtitle = ""
 |18:10-18:35 | **Streaming and visualising neuronal signals for understanding pain** </br> Javier A. Espinosa-Oviedo, U. Lumière Lyon 2, France </br> [video](), [slides]()
 |18:35-18:50 | **Comparing graph data science libraries for querying and analysing datasets: towards data science queries on graphs (short paper)** </br> Genoveva Vargas-Solar, CNRS, France, Pierre Marrec, ENS-Lyon, France and Mirian Halfeld Ferrari Alves, U. Orléans, France </br> [video](), [slides]()
 |  | ***Chair: Nadia Bennani, INSA Lyon, France*** |
-|18:50-19:15 | **TBD** </br>  </br> [video](), [slides]()|
-|19:15-19:25 | **SUMMIT project (invited paper)** </br> Chirine Ghedira Guégan, Nadia Bennani, Genoveva Vargas-Solar </br> [video](), [slides]()
+|18:50-19:15 | **Gamification for healthier lifestyle – User Retention** </br> Shabih Fatima, Juan Carlos Augusto, Ralph Moseley and Povilas Urbonas, Middlesex  University, United Kingdom </br> [video](), [slides]()|
+|19:15-19:25 | **SUMMIT project (invited paper)** </br> Chirine Ghedira Guégan, IAE Université Jean Moulin, Lyon 3, France, Nadia Bennani, INSA Lyon, France, Genoveva Vargas-Solar, CNRS, France </br> [video](), [slides]()
 |19:25-19:30 | Closing, **Workshop organisers** |
 
 
