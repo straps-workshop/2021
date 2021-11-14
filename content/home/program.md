@@ -20,7 +20,7 @@ subtitle = ""
 
 |  |  |
 |---|---|
-|15:00-15:15 | Opening Joint Sesssion STRAPS - ISYCC, **Workshop organisers** |
+|15:00-15:15 | Opening Joint Session STRAPS - ISYCC, **Workshop organisers** |
 |  | **Chair: Chirine Ghedira-Guégan, IAE Université Jean Moulin, Lyon 3, LIRIS, France** | 
 |15:15-16:15| `Keynote` </br> **Community Detection Technology for Mining Healthcare dataset**  </br>  Mourad Oussalah, University of Oulu, Finland </br> [slides]()|
 |16:20-16:45| **Streaming and visualising neuronal signals for understanding pain** </br> Javier A. Espinosa-Oviedo, U. Lumière Lyon 2, France </br> [video](), [slides]()
