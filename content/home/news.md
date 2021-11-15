@@ -25,5 +25,5 @@ subtitle = ""
 +++
 
 {{% alert warning %}}
-### **Program is coming: [Have a look at our Keynote speakers](https://straps-workshop.github.io/#keynotes)!**
+### **Program is ready!: [Join us in our session & have a look at](https://straps-workshop.github.io/#program)!**
 {{% /alert %}}
