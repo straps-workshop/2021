@@ -26,7 +26,7 @@ subtitle = ""
 |16:20-16:45| **Streaming and visualising neuronal signals for understanding pain** </br> Javier A. Espinosa-Oviedo, U. Lumière Lyon 2, France </br> [video](), [slides]()
 |16:45-17:00| **Comparing graph data science libraries for querying and analysing datasets: towards data science queries on graphs (short paper)** </br> Genoveva Vargas-Solar, CNRS, France, Pierre Marrec, ENS-Lyon, France and Mirian Halfeld Ferrari Alves, U. Orléans, France </br> [video](), [slides]()
 |17:00-17:10| **Coffee Break** </br> </br> |
-|  | **Chair: Sami Yangui, INSA Toulouse, LAAS, France** |
+|  | **Chair: Mohammad Amin Kuhail, Zayed University, UAE** |
 |17:10-18:10| `Keynote` </br> **Smart Data Integration of Environmental Datasets** </br>José Ramón Ríos Viqueira, Univ. of Santiago de Compostela, CITUS research center, Spain </br> [slides]()|
 |18:10-18:35| **Graph analytics workflows enactment on just in time data centres - Position Paper** </br> Ali Akoglu, U. Arizona, USA, José-Luis Zechinelli-Martini, UDLAP, Mexico, Hamamache Kheddouci, U. Claude Bernard, France and Genoveva Vargas-Solar, CNRS, France </br>[video](), [slides]()|
 |18:35-18:50 | **Data centred intelligent Geosciences: Research agenda and Opportunities - Position Paper (short paper)** </br> Aderson Farias Nascimento, UFRN, Brazil, Martin Musicante, UFRN, Brazil, Umberto Souza da Costa, UFRN, Brazil, Bruno Mota de Carvalho, UFRN, Brazil </br>[video](), [slides]()|
