@@ -16,7 +16,7 @@ subtitle = ""
   columns = "2"
 
 +++
-**DUBAI, UAE, TIME (GMT+4)** []()
+**DUBAI, UAE, TIME (GMT+4)** [zoomLink](https://cnrs.zoom.us/j/93469002848?pwd=VkQ4WExMMUg1MEFaMUVFdnpkVXAvUT09) Code:qbCd44
 
 |  |  |
 |---|---|
