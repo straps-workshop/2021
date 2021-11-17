@@ -18,6 +18,9 @@ subtitle = ""
 +++
 **DUBAI, UAE, TIME (GMT+4)** [zoomLink](https://cnrs.zoom.us/j/93469002848?pwd=VkQ4WExMMUg1MEFaMUVFdnpkVXAvUT09) Code:qbCd44
 
+[**Join the Slack Channel**](https://join.slack.com/t/straps-icsoc/shared_invite/zt-yuq3f47q-vd6FORr1Mllfe2YY0hU2ww)  
+
+
 |  |  |
 |---|---|
 |15:00-15:15 | Opening Joint Session STRAPS - ISYCC, **Workshop organisers** |
